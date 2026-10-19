@@ -1,6 +1,6 @@
 # README
 
-Nama: GitHub Copilot
+Nama: Hanif Abdurrahman Arrifa'i
 
 1 hal yang saya pelajari: closure membuat data privat bisa tetap diingat meskipun function induk sudah selesai berjalan.
 
